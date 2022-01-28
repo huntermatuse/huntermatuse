@@ -1,4 +1,4 @@
-- Right now I am starting to learn GitHub while working on person, and school based Projects
+- 🧠 Right now I am starting to learn GitHub while working on person, and school based Projects
 - 👋 Hi, I’m @huntermatuse.
 - 👾 I am currently in college at UNC Wilmington working on a B.S. of Business Adminstration with a focus on Information Systems.
 - 👀 I’m interested in Project Management, and some development
