@@ -2,7 +2,7 @@
 - 👋 Hi, I’m @huntermatuse.
 - 👾 I am currently in college at UNC Wilmington working on a B.S. of Business Adminstration with a focus on Information Systems.
 - 👀 I’m interested in Project Management, and some development
-- 🌱 I’m currently learning I am currently working on C#, C++, GO, Python projects in school and personal GO and Python Projects in my limited free time. 
+- 🌱 I’m currently learning I am currently working on C#, C++, R, Python projects in school and personal GO and Python Projects in my limited free time. 
 - 📫 How to reach me hunter AT huntermatuse DOT com or huntermatuse.com
 
 
