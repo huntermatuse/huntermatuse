@@ -1,9 +1,10 @@
 - 🧠 Right now I am starting to learn GitHub while working on personal, and school based Projects
 - 👋 Hi, I’m @huntermatuse.
-- 👾 I am currently in college at UNC Wilmington working on a B.S. of Business Adminstration with a focus on Information Systems.
-- 👀 I’m interested in a mix of Project Management and development
-- 🌱 I’m currently learning I am currently working on C#, C++, R, Python projects in school and personal C and Python Projects in my limited free time. 
-- 📫 How to reach me hunter AT huntermatuse DOT com or huntermatuse.com
+- 👾 I am graduated from UNC Wilmington with a B.S. of Business Adminstration with a focus on Information Systems and a Minor in Cyber Security.
+- 👀 I work in Operational Technology environments with Global Process Automation. 
+- 🌱 I have experience with Python, C#, C, and R. Most of my projects use Python.
+- 💞️ I’m looking to collaborate on some data science projects with Python as well as building tools that automate network configuration and test networks. 
+- 📫 You can reach me at hunter AT huntermatuse DOT com or huntermatuse.com
 
 
 <!---
