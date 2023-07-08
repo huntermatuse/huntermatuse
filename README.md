@@ -1,4 +1,4 @@
-- 🧠 Right now I am starting to learn GitHub while working on personal, and school based Projects
+- 🧠 always be knolling
 - 👋 Hi, I’m @huntermatuse.
 - 👾 I am graduated from UNC Wilmington with a B.S. of Business Adminstration with a focus on Information Systems and a Minor in Cyber Security.
 - 👀 I work in Operational Technology environments with Global Process Automation. 
